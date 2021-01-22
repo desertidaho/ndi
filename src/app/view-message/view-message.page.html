@@ -9,8 +9,8 @@
 <ion-content [fullscreen]="true" *ngIf="message">
   <img class="ion-padding">
   <h1>{{ message.title }}</h1>
-  <p>
-    {{ message.poem }}
+  <p *ngFor="let line of message.poem">
+    {{ line }}
   </p>
   <img class="" src="assets/images/{{message.img}}" alt=" Card image cap">
 </ion-content>
