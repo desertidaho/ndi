@@ -4,6 +4,9 @@ import { Poems } from 'src/assets/poems/poems.js'
 export interface Message {
   id: string;
   read?: boolean;
+  title: string;
+  poem: string;
+  img: string;
 }
 
 @Injectable({
