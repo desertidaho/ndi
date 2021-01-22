@@ -3,7 +3,7 @@ import { Poems } from 'src/assets/poems/poems.js'
 
 export interface Message {
   id: string;
-  // read: boolean;
+  read?: boolean;
 }
 
 @Injectable({
