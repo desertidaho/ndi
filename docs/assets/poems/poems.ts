@@ -1,6 +1,5 @@
 export class Poems {
 
-  // [REFACTORED] switched back to line breaks within a single string for uniformity with other poems
   nowIdaho = `From where I stand <br />
     Beneath the sky’s southeastern sun and water-tower, <br />
     Inline with a few riddles of time <br />
@@ -10,7 +9,10 @@ export class Poems {
     Protecting monolithic foundations at the Temple of Jupiter <br />
     To praise Athena and the much older sun deity Shamash, <br />
     Lived a tribe, in the deserts of now Idaho. <br />
-    Happy people, doing their best to survive.`
+    Happy people, doing their best to survive. <br />
+    <br />
+    &mdash; Brett Wilcox
+    `
 
   valiantAndOtherwise = `
     There will be a tomorrow </br>
@@ -27,7 +29,9 @@ export class Poems {
     Me, and all my other selves </br>
     Laughing, at the wonder of it all, </br>
     My soul glowing </br>
-    Brighter than distant stars in the dark.
+    Brighter than distant stars in the dark.<br />
+    <br />
+    &mdash; Brett Wilcox
     `
 
   asteroidsOrbit = `
@@ -55,7 +59,9 @@ export class Poems {
     Fewer bombs will drop from the sky. </br>
     How will we be remembered, if at all? </br>
     Get ready for their new monetary paradigm, </br>
-    Doppler reveals it’s very near.
+    Doppler reveals it’s very near.<br />
+    <br />
+    &mdash; Brett Wilcox
     `
 
   dancingSilently = `
@@ -75,7 +81,9 @@ export class Poems {
     It's been a peaceful experience, living </br>
     In this pine-scented Central Oregon mountain air </br>
     And I have enjoyed a feeling that everything is okay, will be okay... </br>
-    The pastel horizon dancing silently into the evening dark.</br>
+    The pastel horizon dancing silently into the evening dark.<br />
+    <br />
+    &mdash; Brett Wilcox
     `
 
   memoriesOfAnotherTime = `
@@ -96,7 +104,9 @@ export class Poems {
     I choose to be present here now </br>
     Alone in this serene, peaceful desert. </br>
     Hello to the world, and </br>
-    Thank you for today.
+    Thank you for today.<br />
+    <br />
+    &mdash; Brett Wilcox
     `
 
   nationalEmpire = `
@@ -114,7 +124,10 @@ export class Poems {
     Mayer Anselm Rothschild’s ancestor <br />
     Repeating from his island pink palace <br />
     That he who controls the money supply <br />
-    Cares not who makes the laws.`
+    Cares not who makes the laws.<br />
+    <br />
+    &mdash; Brett Wilcox
+    `
 
   sansAnesthesia = `
     With god-like furry, and <br />
@@ -134,7 +147,10 @@ export class Poems {
     Tossed to them from under the table, <br />
     He was not. <br />
     He committed to stand with Julian, <br />
-    As truth will break their spines.`
+    As truth will break their spines.<br />
+    <br />
+    &mdash; Brett Wilcox
+    `
 
   misstepsOfGoodIntentions = `
     From missteps of good intentions <br />
@@ -153,7 +169,9 @@ export class Poems {
     He stood, <br />
     Tall and fierce, <br />
     Knowing it would take infinitely more <br />
-    To break his resolute, western spirit.
+    To break his resolute, western spirit.<br />
+    <br />
+    &mdash; Brett Wilcox
     `
 
   falseHorizon = `
@@ -166,7 +184,9 @@ export class Poems {
     And the invisible enemy, <br />
     A virus, <br />
     The tiniest of things <br />
-    Setting free the avalanche.  
+    Setting free the avalanche.<br />
+    <br />
+    &mdash; Brett Wilcox  
     `
 
   hereBefore = `
@@ -182,7 +202,9 @@ export class Poems {
     Late October morning with a chill, <br />
     Autumn colors — leaves, lying in a portrait — and<br />
     Light shadows flickering from the apple tree branches. <br />
-    Maybe I have been here before.  
+    Maybe I have been here before.<br />
+    <br />
+    &mdash; Brett Wilcox  
     `
 
   toCare = `
@@ -198,7 +220,9 @@ export class Poems {
     Each passing day.<br />
     Maybe our purpose is simple—<br />
     To care, contribute, and<br />
-    Witness the splendor.  
+    Witness the splendor.<br />
+    <br />
+    &mdash; Brett Wilcox  
     `
 
   chaosOfRipples = `
@@ -218,7 +242,9 @@ export class Poems {
     Truly observe and listen,<br />
     Nature will teach you what it means to be human,<br />
     Allowing you to levitate just above the ground,<br />
-    For a while. 
+    For a while.<br />
+    <br />
+    &mdash; Brett Wilcox 
     `
 
   crippledInSpirit = `
@@ -243,7 +269,9 @@ export class Poems {
     Saving the bird from unholy disparage<br />
     Claimed by the deficient duo.<br />
     Sullen, the badger went back to its hole in the ground,<br />
-    The dimwitted raven knew not what to think.  
+    The dimwitted raven knew not what to think.<br />
+    <br />
+    &mdash; Brett Wilcox  
     `
 
   primordialRoutine = `
@@ -265,7 +293,9 @@ export class Poems {
     I am here.<br />
     Today, anew.<br />
     In this grand opera of sunlight<br />
-    And theater.  
+    And theater.<br />
+    <br />
+    &mdash; Brett Wilcox  
     `
 
   aBeautifulLife = `
@@ -294,7 +324,9 @@ export class Poems {
     To beat vibrant-red again someday.<br />
     She would live to make her papa proud, for<br />
     He taught her—<br />
-    A beautiful life is a choice.
+    A beautiful life is a choice.<br />
+    <br />
+    &mdash; Brett Wilcox
     `
 
   questionTime = `
@@ -314,7 +346,9 @@ export class Poems {
     Indifference to unnecessary suffering allows<br />
     Those that control the money supply<br />
     To continue their unconscionable experiments.<br />
-    Decentralize money for more fairness. 
+    Decentralize money for more fairness.<br />
+    <br />
+    &mdash; Brett Wilcox
     `
 
   flaubertianStruggle = `
@@ -326,7 +360,9 @@ export class Poems {
     Falls in slow motion<br />
     Toward that which giveth and taketh away,<br />
     Its life source, and saboteur.<br />
-    Knowing intensifies the grief.  
+    Knowing intensifies the grief.<br />
+    <br />
+    &mdash; Brett Wilcox  
     `
 
   socialAmnesia = `
@@ -349,7 +385,9 @@ export class Poems {
     Tomorrow's unimaginable loss of our<br />
     Triumphs, miseries, collective history,<br />
     As those that happened before us<br />
-    Evanescent in the ether between stars.  
+    Evanescent in the ether between stars.<br />
+    <br />
+    &mdash; Brett Wilcox  
     `
 
   pastPresent = `
@@ -368,7 +406,9 @@ export class Poems {
     That I want so badly to share, for<br />
     You are on high in my mind.<br />
     From a place of deep caring,<br />
-    Desert and the sun.  
+    Desert and the sun.<br />
+    <br />
+    &mdash; Brett Wilcox 
     `
 
   tyrannyAfoot = `
@@ -395,7 +435,9 @@ export class Poems {
     Set up for your advantage and good health?<br />
     Then you don’t hear the crickets.<br />
     Life is a beautiful,<br />
-    Horrible war every day to exist.   
+    Horrible war every day to exist.<br />
+    <br />
+    &mdash; Brett Wilcox   
     `
 
   myGrandfathersShop = `
@@ -423,7 +465,9 @@ export class Poems {
     Since I didn’t tell you as a child<br />
     I want to say loudly now—<br />
     I’m proud of you grandpa, and<br />
-    Thank you for my name.  
+    Thank you for my name.<br />
+    <br />
+    &mdash; Brett Wilcox 
     `
 
   trespassInItsResplendence = `
@@ -445,7 +489,9 @@ export class Poems {
     Someday this rugged land might take me away.<br />
     Until then I choose to trespass in its resplendence,<br />
     On a narrow, mountainous, alder strip of land<br />
-    Separating the mighty Pacific Ocean from the angry Bering Sea.   
+    Separating the mighty Pacific Ocean from the angry Bering Sea.<br />
+    <br />
+    &mdash; Brett Wilcox   
     `
 
   itsAChoiceToBeKind = `
@@ -463,7 +509,9 @@ export class Poems {
     And so does she, and she can never forget<br />
     The horror of mankind.<br />
     It’s a choice to carry on.<br />
-    It’s a choice to be kind.
+    It’s a choice to be kind.<br />
+    <br />
+    &mdash; Brett Wilcox
     `
 
   aManOfCourage = `
@@ -483,7 +531,9 @@ export class Poems {
     Peaceful, noble sweat-stained sleep.<br />
     Despised by his jealous enemies,<br />
     Maria’s father smiles brightest<br />
-    Each time she enters the room.  
+    Each time she enters the room.<br />
+    <br />
+    &mdash; Brett Wilcox  
     `
 
   beganToDrift = `
@@ -496,7 +546,9 @@ export class Poems {
     Along your journey,<br />
     To believe so is deceit.<br />
     When your last breath leaves you<br />
-    You’ll know it’s bittersweet.   
+    You’ll know it’s bittersweet.<br />
+    <br />
+    &mdash; Brett Wilcox   
     `
 
   symphonyOfAliveness = `
@@ -509,7 +561,9 @@ export class Poems {
     How many times have I walked past a river<br />
     Blind to the symphony of aliveness?<br />
     Worried thoughts hide present moments.<br />
-    Awareness is the gift.   
+    Awareness is the gift.<br />
+    <br />
+    &mdash; Brett Wilcox   
     `
 
   navigatingAGalaxy = `
@@ -519,7 +573,9 @@ export class Poems {
     Navigating a galaxy of cottonwood snow<br />
     Drifting from Idaho riverbank trees.<br />
     Often it’s the simple things<br />
-    That fills my mind with wonder.   
+    That fills my mind with wonder.<br />
+    <br />
+    &mdash; Brett Wilcox   
     `
 
   sheepRoam = `
@@ -533,7 +589,9 @@ export class Poems {
     My mind knows the truth, that<br />
     Men wear sheep masks,<br />
     My heart dulls the pain<br />
-    And the blade.   
+    And the blade.<br />
+    <br />
+    &mdash; Brett Wilcox   
     `
 
   theQuietTree = `
@@ -555,7 +613,9 @@ export class Poems {
     Upon my chest and shoulders<br />
     Making it difficult to breathe.<br />
     I want for a gentle humanity,<br />
-    I want for the quiet tree.  
+    I want for the quiet tree.<br />
+    <br />
+    &mdash; Brett Wilcox  
     `
 
   waterKeepsCalm = `
@@ -567,7 +627,9 @@ export class Poems {
     How many days till the tsunami?<br />
     How many days to live dreams?<br />
     A pelican’s aloft squawk rattles the shadows.<br />
-    The deep water keeps calm for a while.   
+    The deep water keeps calm for a while.<br />
+    <br />
+    &mdash; Brett Wilcox   
     `
 
   wintersThaw = `
@@ -583,7 +645,9 @@ export class Poems {
     Trust the glassy water<br />
     Hiding monsters in deep depths.<br />
     Some will love you truly,<br />
-    Others fade in winter’s thaw.   
+    Others fade in winter’s thaw.<br />
+    <br />
+    &mdash; Brett Wilcox   
     `
 
   diveHeadlong = `
@@ -595,7 +659,9 @@ export class Poems {
     As the wonder passes you by.<br />
     Descend the rocky banks cautiously,<br />
     Dive headlong into the magic, and<br />
-    Don’t forget to breathe.   
+    Don’t forget to breathe.<br />
+    <br />
+    &mdash; Brett Wilcox   
     `
 
   towardTheDistantMountain = `
@@ -607,7 +673,9 @@ export class Poems {
     Immovable, yet temporary.<br />
     I am deserts and mountains and birds,<br />
     I am love and anger and want,<br />
-    I am, and I am not.   
+    I am, and I am not.<br />
+    <br />
+    &mdash; Brett Wilcox   
     `
 
   washesCleanThePast = `
@@ -622,7 +690,9 @@ export class Poems {
     Ignites the lovers’ lust under a rising waxing moon.<br />
     River days fill the boater’s venerable spirit,<br />
     River nights refresh his simple soul, and<br />
-    Tomorrow’s morning dew washes clean the past.   
+    Tomorrow’s morning dew washes clean the past.<br />
+    <br />
+    &mdash; Brett Wilcox   
     `
 
   nearToTheCanyon = `
@@ -636,7 +706,9 @@ export class Poems {
     Carving white esses in desert brown walls,<br />
     Walls painted in petroglyph red honor<br />
     Of those who walked near to the canyon, and<br />
-    Breathed basalt Idaho Indian fires.  
+    Breathed basalt Idaho Indian fires.<br />
+    <br />
+    &mdash; Brett Wilcox  
     `
 
   wanderingWinds = `
@@ -647,7 +719,9 @@ export class Poems {
     Silent in rugged determination,<br />
     Graceful in their sway,<br />
     Sprouting buds of ancient hope<br />
-    Until overwhelming the forest’s grateful soul.
+    Until overwhelming the forest’s grateful soul.<br />
+    <br />
+    &mdash; Brett Wilcox
     `
 
   desertIdaho = `
@@ -657,21 +731,27 @@ export class Poems {
     With cirrus alight in kaleidoscope high strata<br />
     Whispering memory is often the better lover.<br />
     Pine trees carve tender soft angular light.<br />
-    Birds cross the fading sky orange to black.   
+    Birds cross the fading sky orange to black.<br />
+    <br />
+    &mdash; Brett Wilcox   
     `
 
   evenTheTruest = `
     Even the truest sweet love<br />
     Soaring skyward purely<br />
     Cannot capture her entire heart,<br />
-    Nor should it, you beautiful bird.  
+    Nor should it, you beautiful bird.<br />
+    <br />
+    &mdash; Brett Wilcox  
     `
 
   trustLove = `
     Trust love and only love.<br />
     If it destroys you<br />
     In an unforeseen tragedy,<br />
-    You still win.   
+    You still win.<br />
+    <br />
+    &mdash; Brett Wilcox   
     `
 
   newsSwirls = `
@@ -685,7 +765,9 @@ export class Poems {
     Wind lifting birds in the breeze.<br />
     So I demand of myself<br />
     To be kind,<br />
-    As best I can.   
+    As best I can.<br />
+    <br />
+    &mdash; Brett Wilcox   
     `
 
   asYouMoveBoldly = `
@@ -697,7 +779,9 @@ export class Poems {
     And that billowing rapids grant many safe passages.<br />
     Trust in those who prove their loyalty,<br />
     And judge not the jealous others silently praying for your failure,<br />
-    Their duplicitous smiles fading steadily in the growing distance.  
+    Their duplicitous smiles fading steadily in the growing distance.<br />
+    <br />
+    &mdash; Brett Wilcox  
     `
 
   dutyToAdventure = `
@@ -707,13 +791,15 @@ export class Poems {
     You will see the valley muddy footprints<br />
     That brought you to now—<br />
     A most beautiful now,<br />
-    In an uncertain late afternoon sky.   
+    In an uncertain late afternoon sky.<br />
+    <br />
+    &mdash; Brett Wilcox   
     `
 
   getPoemsData() {
     let data =
       [
-        { id: "now-idaho", img: "nowIdaho.jpg", title: "Now Idaho", poem: this.nowIdaho, read: false },
+        { id: "now-idaho", img: "nowIdaho.jpg", title: "Now Idaho", poem: this.nowIdaho },
         { id: "valiant-and-otherwise", img: "valiantAndOtherwise.jpg", title: "Valiant and Otherwise", poem: this.valiantAndOtherwise },
         { id: "asteroids-orbit", img: "asteroidsOrbit.jpg", title: "Asteroids Orbit", poem: this.asteroidsOrbit },
         { id: "dancing-silently", img: "dancingSilently.jpg", title: "Dancing Silently", poem: this.dancingSilently },
