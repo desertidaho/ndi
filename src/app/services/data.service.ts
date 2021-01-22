@@ -9,16 +9,24 @@ export interface Message {
 })
 export class DataService {
 
-  public messages: Message = new Poems1().getPoems1Data();
+  public messages: Message[] = new Poems1().getPoems1Data();
 
   constructor() { }
 
-  public getMessages(): Message {
+  public getMessages(): Message[] {
     return this.messages;
   }
 
   public getMessageById(id: string): Message {
-    return this.messages[id];
+    return this.search(id);
+  }
+
+  public search(id: string) {
+    for (var i = 0; i < this.messages.length; i++) {
+      if (this.messages[i].id === id) {
+        return this.messages[i];
+      }
+    }
   }
 
 }
