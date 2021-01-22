@@ -1,6 +1,5 @@
 export class Poems {
 
-  // [REFACTORED] switched back to line breaks within a single string for uniformity with other poems
   nowIdaho = `From where I stand <br />
     Beneath the sky’s southeastern sun and water-tower, <br />
     Inline with a few riddles of time <br />
@@ -713,7 +712,7 @@ export class Poems {
   getPoemsData() {
     let data =
       [
-        { id: "now-idaho", img: "nowIdaho.jpg", title: "Now Idaho", poem: this.nowIdaho, read: false },
+        { id: "now-idaho", img: "nowIdaho.jpg", title: "Now Idaho", poem: this.nowIdaho },
         { id: "valiant-and-otherwise", img: "valiantAndOtherwise.jpg", title: "Valiant and Otherwise", poem: this.valiantAndOtherwise },
         { id: "asteroids-orbit", img: "asteroidsOrbit.jpg", title: "Asteroids Orbit", poem: this.asteroidsOrbit },
         { id: "dancing-silently", img: "dancingSilently.jpg", title: "Dancing Silently", poem: this.dancingSilently },

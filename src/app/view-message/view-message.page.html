@@ -8,7 +8,6 @@
 
 <ion-content [fullscreen]="true" *ngIf="message">
   <h1>{{ message.title }}</h1>
-  <!-- [REFACTORED] bind the poem text as the html of your p element -->
-  <p [innerHTML]="message.poem"></p> 
+  <p [innerHTML]="message.poem"></p>
   <img src="assets/images/{{message.img}}" alt=" Card image cap">
 </ion-content>
