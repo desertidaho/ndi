@@ -1,4 +1,4 @@
-export class Poems1 {
+export class Poems {
 
   nowIdaho = `
     From where I stand </br>
@@ -711,7 +711,7 @@ export class Poems1 {
     In an uncertain late afternoon sky.   
     `
 
-  getPoems1Data() {
+  getPoemsData() {
     let data =
       [
         { id: "now-idaho", img: "nowIdaho.jpg", title: "Now Idaho", poem: this.nowIdaho },

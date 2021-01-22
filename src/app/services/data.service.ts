@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core';
-import { Poems1 } from 'src/assets/poems/poems1.js'
+import { Poems } from 'src/assets/poems/poems.js'
 
 export interface Message {
 }
@@ -9,7 +9,7 @@ export interface Message {
 })
 export class DataService {
 
-  public messages: Message[] = new Poems1().getPoems1Data();
+  public messages: Message[] = new Poems().getPoemsData();
 
   constructor() { }
 
