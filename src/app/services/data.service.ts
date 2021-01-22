@@ -3,6 +3,7 @@ import { Poems } from 'src/assets/poems/poems.js'
 
 export interface Message {
   id: string;
+  read: boolean;
 }
 
 @Injectable({
@@ -26,6 +27,7 @@ export class DataService {
     console.log(id)
     for (var i = 0; i < this.messages.length; i++) {
       if (this.messages[i].id === id) {
+        this.messages[i].read = true;
         return this.messages[i];
       }
     }

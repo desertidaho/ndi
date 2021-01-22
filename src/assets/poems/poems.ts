@@ -714,7 +714,7 @@ export class Poems {
   getPoemsData() {
     let data =
       [
-        { id: "now-idaho", img: "nowIdaho.jpg", title: "Now Idaho", poem: this.nowIdaho },
+        { id: "now-idaho", img: "nowIdaho.jpg", title: "Now Idaho", poem: this.nowIdaho, read: false },
         { id: "valiant-and-otherwise", img: "valiantAndOtherwise.jpg", title: "Valiant and Otherwise", poem: this.valiantAndOtherwise },
         { id: "asteroids-orbit", img: "asteroidsOrbit.jpg", title: "Asteroids Orbit", poem: this.asteroidsOrbit },
         { id: "dancing-silently", img: "dancingSilently.jpg", title: "Dancing Silently", poem: this.dancingSilently },
