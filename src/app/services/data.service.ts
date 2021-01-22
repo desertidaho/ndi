@@ -22,6 +22,7 @@ export class DataService {
   }
 
   public search(id: string) {
+    console.log(id)
     for (var i = 0; i < this.messages.length; i++) {
       if (this.messages[i].id === id) {
         return this.messages[i];
