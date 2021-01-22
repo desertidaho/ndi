@@ -1,16 +1,17 @@
 export class Poems {
 
+  // [REFACTORED] switched back to line breaks within a single string for uniformity with other poems
   nowIdaho = [
-    `From where I stand`,
-    `Beneath the sky’s southeastern sun and water-tower,`,
-    `Inline with a few riddles of time`,
-    `Before travel was banned, and`,
-    `Outlaws roaming dirty-wild in masks and spurs`,
-    `With gallant horses fierce in battle`,
-    `Protecting monolithic foundations at the Temple of Jupiter`,
-    `To praise Athena and the much older sun deity Shamash,`,
-    `Lived a tribe, in the deserts of now Idaho.`,
-    `Happy people, doing their best to survive.`,
+    `From where I stand <br />
+    Beneath the sky’s southeastern sun and water-tower, <br />
+    Inline with a few riddles of time <br />
+    Before travel was banned, and <br />
+    Outlaws roaming dirty-wild in masks and spurs <br />
+    With gallant horses fierce in battle <br />
+    Protecting monolithic foundations at the Temple of Jupiter <br />
+    To praise Athena and the much older sun deity Shamash, <br />
+    Lived a tribe, in the deserts of now Idaho. <br />
+    Happy people, doing their best to survive.`
   ]
 
   valiantAndOtherwise = `
