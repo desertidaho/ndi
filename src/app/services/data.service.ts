@@ -2,6 +2,7 @@ import { Injectable } from '@angular/core';
 import { Poems } from 'src/assets/poems/poems.js'
 
 export interface Message {
+  id: string;
 }
 
 @Injectable({
